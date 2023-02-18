@@ -9,8 +9,8 @@ const App = () => {
     <div className="App">
       <h1>Mobile Store</h1>
       <BrowserRouter>
+        <Navbar />
         <Routes>
-          <Navbar />
           <Route>
 
           </Route>
