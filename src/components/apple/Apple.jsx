@@ -3,3 +3,5 @@ const Apple = () => {
         <></>
     )
 }
+
+export default Apple;

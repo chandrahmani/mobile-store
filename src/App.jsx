@@ -1,5 +1,6 @@
 import React, { useReducer, useEffect } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Apple from "./components/apple/Apple";
 import Navbar from "./components/core/navbar/Navbar";
 
 const App = () => {
@@ -7,11 +8,10 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Mobile Store</h1>
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route>
+          <Route path="/" element={<Apple />}>
 
           </Route>
         </Routes>
