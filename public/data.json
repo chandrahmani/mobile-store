@@ -1,8 +1,36 @@
 [
   {
+    "url": "https://www.digitec.ch/im/Files/4/8/8/9/9/6/9/0/iPhone_13_Pro_Max_Sierra_Blue_PDP_Image_Position-1A__WWEN.jpg?impolicy=PictureComponent&resizeWidth=600&resizeHeight=600",
     "name": "I Phone 14 Pro",
     "brand": "Apple",
     "price": "1,20000",
-    "color": "black"
+    "color": "Blue",
+    "display": "6.1 Inch ",
+    "storage": "128GB",
+    "battery capacity": "3,095mAh"
+  },
+  {
+    "url": "https://m.media-amazon.com/images/I/61eDXs9QFNL._AC_SL520_.jpg",
+    "name": "I Phone 13 Pro",
+    "brand": "Apple",
+    "price": "₹67,499.00",
+    "color": "black",
+    "storage": "128GB"
+  },
+  {
+    "url": "https://m.media-amazon.com/images/I/61eDXs9QFNL._AC_SL520_.jpg",
+    "name": "I Phone 13 Pro",
+    "brand": "Apple",
+    "price": "₹67,499.00",
+    "color": "black",
+    "storage": "128GB"
+  },
+  {
+    "url": "https://o.remove.bg/downloads/132b9d1e-63c3-46e5-b56e-5f4e54ccab9a/iphone-13-pink-540x600-removebg-preview.png",
+    "name": "I Phone 13 ",
+    "brand": "Apple",
+    "price": "₹64,900.00",
+    "color": "Pink",
+    "storage": "128GB"
   }
 ]

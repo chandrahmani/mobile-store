@@ -29,7 +29,9 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="navbar-container">
                 <Link to="/" className="navbar-logo">
-                    SMS SAREE   <i className="fab fa-typo3" />
+                    KNM
+                    <img src="" />
+                    <i className="fab fa-typo3" />
                 </Link>
                 <div className="menu-icon" onClick={handelClick}>
 
@@ -43,15 +45,14 @@ const Navbar = () => {
                     </li>
 
                     <li className="nav-item">
-                        <Link to="/iphone" className="nav-links" onClick={closeMobileMenu}>
-                            I Phone
+                        <Link to="/aple" className="nav-links" onClick={closeMobileMenu}>
+                            IPhone
                         </Link>
                     </li>
 
                     <li className="nav-item">
                         <Link to="/pixel" className="nav-links" onClick={closeMobileMenu}>
                             G Pixel
-
                         </Link>
                     </li>
 

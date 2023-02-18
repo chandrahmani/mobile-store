@@ -1,0 +1,25 @@
+.phn-wrapper {
+    display: flex;
+    flex-direction: row;
+    max-width: 725px;
+    margin: auto;
+}
+
+.phn-dtl {
+    margin: 2rem;
+    color: #000000;
+    background-color: #d7d4d4;
+
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.phn-dtl h2,
+h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
