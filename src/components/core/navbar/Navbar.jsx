@@ -1,4 +1,3 @@
-import { List, X } from "phosphor-react";
 import { useState } from "react";
 import { Link } from "react-router-dom"
 import { Button } from "./Button";
@@ -33,7 +32,7 @@ const Navbar = () => {
                 </Link>
                 <div className="menu-icon" onClick={handelClick}>
 
-                    {click ? <X size={32} /> : <List size={32} />}
+                    {click ? <X size={32} /> : <ListBullets size={32} />}
                 </div>
                 <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                     <li className="nav-item">
